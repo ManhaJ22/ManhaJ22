@@ -1,6 +1,6 @@
 # Hi, I'm Manha 👋
 
-**AI Engineer & Full-Stack Developer** | Virginia Tech CS '25 | Based in Redmond, WA
+**AI Engineer & Full-Stack Developer** | Virginia Tech CS Dec.'25 | Based in Redmond, WA
 
 I build production AI systems, agentic workflows, and full-stack applications. My work spans AI safety research, real-time inference platforms, and secure backend systems. I'm passionate about AI that serves people responsibly — not just impressively.
 
